@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6k0103/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0103/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經菩薩戒初津
+  identifiers:
+    krp: KR6k0103
+    cbeta: X39n0700
+    cbeta_old_id: X39n0700
+    authorityid: CA0000983
+    json_key: X0700
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X39/X39n0700.xml
+    old_id: X39n0700
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0103_000-X.yaml, hash: 'sha256:71b9e332e09ed72a9d0d173bf926cc8dcfde3218493a14dbd43c0550c8559be1'}
+  - {seq: 1, filename: KR6k0103_001-X.yaml, hash: 'sha256:816a3056ad7ad7b3b7ce7c81149601f37195edc780683e3c7b58516beea39dc2'}
+  - {seq: 2, filename: KR6k0103_002-X.yaml, hash: 'sha256:9e501abf87b49d5dcf8ccb6ae6cb31cd06d0793a367d001700a86f140e8f49e6'}
+  - {seq: 3, filename: KR6k0103_003-X.yaml, hash: 'sha256:478c92c7f85539f2163c9a63b8b08a73a24a5babffad6e28446e121c750f3154'}
+  - {seq: 4, filename: KR6k0103_004-X.yaml, hash: 'sha256:1d94e9d074dbb16a98301ab3bd788a9536f240f0504aa6da7b4f217718a3d49f'}
+  - {seq: 5, filename: KR6k0103_005-X.yaml, hash: 'sha256:e799b1abf6f04b7344e75fb262613a360da3496ec02f91245840b67c941320c9'}
+  - {seq: 6, filename: KR6k0103_006-X.yaml, hash: 'sha256:79863343d82ccf7687c7c3ff8fcccf05df63726bda76372c190ab4783ef7ed35'}
+  - {seq: 7, filename: KR6k0103_007-X.yaml, hash: 'sha256:46fbd035b5170d6ca963eedfeb4e0fd00e1b1719a22dc275d35ca8a8f9f9acd0'}
+  - {seq: 8, filename: KR6k0103_008-X.yaml, hash: 'sha256:a0584c7f0fa30be94fb324025a56b077767b6be48e37fe083036da7ef6171ebd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0103_000-X.markers.yaml, hash: 'sha256:c7ed5309feed443f2d57fca0240981e5f345449820c7c6c4e8960cd9f90b8d57'}
+  - {seq: 1, role: markers, filename: assets/KR6k0103_001-X.markers.yaml, hash: 'sha256:b3acc61ead89d119ec9ad7c95397cbc1316c54c5700b01a8b9cc078341906cf6'}
+  - {seq: 2, role: markers, filename: assets/KR6k0103_002-X.markers.yaml, hash: 'sha256:4d49d4d9b6fa4b805ac4d0dec8146b6136872bfd2e19d4bae7a48a2b48100c84'}
+  - {seq: 3, role: markers, filename: assets/KR6k0103_003-X.markers.yaml, hash: 'sha256:dcc89003c16c297801a64ddf67e5b3d4740284488d19a6f8621fe2e1845aaca0'}
+  - {seq: 4, role: markers, filename: assets/KR6k0103_004-X.markers.yaml, hash: 'sha256:fb475616b78bd3dd2db76220414134a2b5f49b8e76c4a52d83d79ebfc278b716'}
+  - {seq: 5, role: markers, filename: assets/KR6k0103_005-X.markers.yaml, hash: 'sha256:04bd004217a72aa1ea9288079ee532633800b8f6eb9ed368909f9b1be6cb0eef'}
+  - {seq: 6, role: markers, filename: assets/KR6k0103_006-X.markers.yaml, hash: 'sha256:0f28a69a7d85b08f8810d1217550e803ab932948233c1c6d448bc0a80a56d007'}
+  - {seq: 7, role: markers, filename: assets/KR6k0103_007-X.markers.yaml, hash: 'sha256:0394f6416315b21dfca5f87d3425c78ba11014e89b27307b0eef746e09612945'}
+  - {seq: 8, role: markers, filename: assets/KR6k0103_008-X.markers.yaml, hash: 'sha256:d036a8eb683fbdbc72b2f26694b10fdec090ddf41a330d0369d592a77c38ae6a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0103_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 700-A 佛說梵網經菩薩戒初津敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0103_X_000-mulu-2
+    span:
+    - front
+    - 379
+    - 379
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0103_X_000-mulu-3
+    span:
+    - front
+    - 1037
+    - 1037
+  label: 佛說梵網經初津
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0103_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13668
+  label: 佛說梵網經初津卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0103_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 16024
+  label: 佛說梵網經初津卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0103_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15711
+  label: 佛說梵網經初津卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0103_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 15545
+  label: 佛說梵網經初津卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0103_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 18584
+  label: 佛說梵網經初津卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0103_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 17928
+  label: 佛說梵網經初津卷六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0103_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 18932
+  label: 佛說梵網經初津卷七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0103_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 19608
+  label: 佛說梵網經初津卷八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0103_X_008-mulu-1
+    span:
+    - body
+    - 17774
+    - 17774
+  label: No. 700-B 跋
+  type: mulu
+  level: 1
+hash: sha256:33311c1a3a96788f2321fc3ecf385f56a36d911acb777af95842e37b9e1acd33
