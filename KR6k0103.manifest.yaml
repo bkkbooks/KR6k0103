@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0103_000.yaml, hash: 'sha256:fb98ba9ec35ac2a1e7c2616d7a4ef51a082e734df44f87280f17bca4f01d0d49'}
+  - {seq: 0, filename: KR6k0103_000.yaml, hash: 'sha256:f932ca6bbc7a9d1e532c28cfb6f8e229bb4c57ade9ea91ece00e0e261f4de20f'}
   - {seq: 1, filename: KR6k0103_001.yaml, hash: 'sha256:94e00f514aa1dccc8d65f7fa25e7a1b21b53681972f5dbec84800fadf03d201d'}
   - {seq: 2, filename: KR6k0103_002.yaml, hash: 'sha256:5aa4d3333193d871159d74b12264edb0b3f7bb347e2870965d8855ccf6c39c1c'}
   - {seq: 3, filename: KR6k0103_003.yaml, hash: 'sha256:e53143c747c73013fcdab26a87b2b0d3144d53b5ca518e43185181f9754e281e'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6k0103_007.yaml, hash: 'sha256:947ef452fdf8e515e397e8f42903e12c04feb3e7507385a7025a648a4cec023c'}
   - {seq: 8, filename: KR6k0103_008.yaml, hash: 'sha256:9535d8d6a8cec4a15b2d63fc5897c4f385f6d55d94e260c3cc5ca4bc6d4cc674'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0103_000.markers.yaml, hash: 'sha256:69fabcec82d2ef6b16ea2a0a5d66882d0535659bde7968e7f514e8cfbd26263c'}
+  - {seq: 0, role: markers, filename: assets/KR6k0103_000.markers.yaml, hash: 'sha256:01ff3da56728eead2ec5f71aaa9bdea45215102b43519ab11455395fdde85c82'}
   - {seq: 1, role: markers, filename: assets/KR6k0103_001.markers.yaml, hash: 'sha256:95b2b13a788a057a6c436a262053724d292d8c9d720220755845d406258deedb'}
   - {seq: 2, role: markers, filename: assets/KR6k0103_002.markers.yaml, hash: 'sha256:467d7b8f0ffbd1a2a1cd0ecfbb5efb9bcb31a67a1e00b39d761305486ddbf2e6'}
   - {seq: 3, role: markers, filename: assets/KR6k0103_003.markers.yaml, hash: 'sha256:69d898dbb05dca98dce3ca99831a6161cc4e58474ddc2eaa3dda4cd294733774'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0103_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 700-A 佛說梵網經菩薩戒初津敘
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0103_X_000-mulu-2
     span:
-    - front
+    - body
     - 379
     - 379
   label: 凡例
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0103_X_000-mulu-3
     span:
-    - front
+    - body
     - 1037
     - 1037
   label: 佛說梵網經初津
@@ -161,7 +161,7 @@ table_of_contents:
   label: No. 700-B 跋
   type: mulu
   level: 1
-hash: sha256:e123b2082c36f5461a8c8ebf80cf8171523a30f210800d1c9f04ed16cccddf3e
+hash: sha256:55117b0da0703cb6b88bc6a04692c5cbbed4392b23aeb12c622871f6fec57de6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
